@@ -17,6 +17,11 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 
 **This week I spent my time on**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
