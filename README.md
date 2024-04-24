@@ -7,8 +7,8 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 **What do I do?**
 
 - 🔭 I’m currently (and constantly) working on my [personal website](https://janinamattes.github.io/#profile)
-- 🌱 I’m currently learning more about autonomous driving with [ROS 2](https://github.com/munichmotorsport), and solving autonomous drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone) and trying to find better solutions to my project ideas
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/). I'm always happy to hear from people who share my interests!
+- 🌱 I’m currently learning more about autonomous driving with [ROS 2](https://github.com/munichmotorsport), and solving autonomous drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone). I'm always trying to find better solutions to my project ideas.
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/). I'm happy to hear from people who share interests!
 
 ---
 
