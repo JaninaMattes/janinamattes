@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=janinamattes.janinamattes" alt="visitor badge">
+<div align="right">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janinamattes.janinamattes)
 </div>
 
 ### Hi there and welcome to my GitHub page 👋
