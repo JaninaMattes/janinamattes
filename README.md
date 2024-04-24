@@ -15,7 +15,7 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 
 ---
 
-**I'm a Night 🦉**
+**This week I spent my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
