@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=janinamattes.janinamattes)
+                
 ### Hi there and welcome to my GitHub page 👋
 
 My name is Janina and I am a master's student of Computer Science at the University of Munich. My focus lies in **machine learning**, **VR and game development** and I am currently learning about **high-performance computing**. I have a passion for robotics, science, learning and sharing my knowledge with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress ⏳).
@@ -23,3 +25,5 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 **I'm a Night 🦉**
 
 ---
+
+**Languages-Frameworks-Tools**
