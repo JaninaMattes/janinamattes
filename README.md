@@ -4,7 +4,7 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 
 ---
 
-** What do I do? **
+**What do I do?**
 
 - 🔭 I’m currently (and constantly) working on my [personal website](https://janinamattes.github.io/#profile)
 - 🌱 I’m currently learning more about [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone) and trying to find better solutions to my project ideas
@@ -12,7 +12,7 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 
 ---
 
-** How I spent my time **
+**How I spent my time**
 <!--START_SECTION:waka-->
 <img
   src="https://github.com/janinamattes/janinamattes/blob/main/images/stat.svg"
