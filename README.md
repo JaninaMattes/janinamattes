@@ -1,4 +1,6 @@
+<div align="right">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janinamattes.janinamattes)
+</div>
                 
 ### Hi there and welcome to my GitHub page 👋
 
@@ -27,3 +29,21 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 ---
 
 **Languages-Frameworks-Tools**
+
+Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,ts,kotlin,dart,js,bash&theme=light)](https://skillicons.dev)
+
+Machine Learning Frameworks
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=light)](https://skillicons.dev)
+
+Web/Mobile App Development Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask,django,angular,nestjs,flutter,postman,spring,firebase&theme=light)](https://skillicons.dev)
+
+Cloud Development
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=light)](https://skillicons.dev)
+
+Database Systems
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=light)](https://skillicons.dev)
+
+Containerization
+[![My Skills](https://skillicons.dev/icons?i=docker,heroku,kubernetes&theme=light)](https://skillicons.dev)
