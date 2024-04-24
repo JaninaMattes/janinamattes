@@ -1,6 +1,5 @@
-<div align="right">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janinamattes.janinamattes)
-</div>
+
                 
 ### Hi there and welcome to my GitHub page 👋
 
