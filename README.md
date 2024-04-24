@@ -30,10 +30,12 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 **Languages-Frameworks-Tools**
 
 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,ts,kotlin,dart,js,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,ts,kotlin,dart,bash&theme=light&perline=3)](https://skillicons.dev)
 
 Machine Learning Frameworks
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=light)](https://skillicons.dev)
+
+<!--
 
 Web/Mobile App Development Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,django,angular,nestjs,flutter,postman,spring,firebase&theme=light)](https://skillicons.dev)
@@ -46,3 +48,4 @@ Database Systems
 
 Containerization
 [![My Skills](https://skillicons.dev/icons?i=docker,heroku,kubernetes&theme=light)](https://skillicons.dev)
+-->
