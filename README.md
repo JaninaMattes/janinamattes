@@ -1,10 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-I am currently focusing on <strong><a href="https://github.com/NAME/document-layout-analysis-backend/tree/main" style="color: black; text-decoration: none; font-weight: bold;">Machine Learning</a></strong>, <strong><a href="https://github.com/NAME/robotics-vr-game" style="color: black; text-decoration: none; font-weight: bold;">VR and Game Development with Unreal and Unity</a></strong>, and <strong><a href="https://github.com/NAME/High-Performance-Computing-Exercises" style="color: black; text-decoration: none; font-weight: bold;">High Performance Computing</a></strong>.
-
-
-
-My name is Janina and I am a master's student of Computer Science at the University of Munich. My focus lies in [**machine learning**](https://github.com/JaninaMattes/document-layout-analysis-backend/tree/main), [VR game development](https://github.com/JaninaMattes/robotics-vr-game) and I am currently learning about [high-performance computing](https://github.com/JaninaMattes/High-Performance-Computing-Exercises). I have a passion for robotics, science, learning and sharing my knowledge with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress).
+My name is Janina and I am a master's student of Computer Science at the University of Munich. My focus lies in **machine learning**, **VR and game development** and I am currently learning about **high-performance computing**. I have a passion for robotics, science, learning and sharing my knowledge with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress).
 
 ---
 
