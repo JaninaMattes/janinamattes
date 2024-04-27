@@ -10,12 +10,14 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 **What do I do?**
 
 - 🔭 I’m currently (and constantly) working on my [personal website](https://janinamattes.github.io/#profile)
-- 🌱 I’m currently learning more about autonomous driving with [ROS 2](https://github.com/munichmotorsport) in the Munich Racing team, and how to solve autonomous drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone). I'm always trying to find better solutions to my project ideas.
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/)
+- 🌱 I’m currently learning more about autonomous driving with [ROS 2](https://github.com/munichmotorsport) and how to solve drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone). I'm always trying to find better solutions to my project ideas.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/)
 
 ---
 
-**This week I spent my time on**
+**Coding Activity**
+
+<span style="color: #888; font-size: 0.9em">Logged time spent on different projects today. </span>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -31,7 +33,10 @@ Git          17 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-**Languages-Frameworks-Tools**
+
+**Favorite Tech** 
+
+<span style="color: #888; font-size: 0.9em">Tools, languages and other things that I like to work with.</span>
 
 Programming Languages<br />
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,cs,ts,kotlin,dart,ros,bash&theme=light&perline=10)](https://skillicons.dev)
