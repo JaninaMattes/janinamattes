@@ -21,11 +21,11 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 <!--START_SECTION:waka-->
 
 ```txt
-Python       15 hrs 43 mins  ███████████████░░░░░░░░░░   59.79 %
-C++          10 hrs 17 mins  █████████▓░░░░░░░░░░░░░░░   39.14 %
-Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++      14 hrs 53 mins  █████████████░░░░░░░░░░░░   52.38 %
+Python   13 hrs 1 min    ███████████▒░░░░░░░░░░░░░   45.79 %
+Text     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
