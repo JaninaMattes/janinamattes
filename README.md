@@ -21,11 +21,11 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 12 mins   ████████████▒░░░░░░░░░░░░   48.96 %
-Git Config   59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Text         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-SSH Config   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Python       2 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   46.36 %
+Git Config   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+Text         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+SSH Config   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+YAML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
 ```
 
 <!--END_SECTION:waka-->
