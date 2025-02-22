@@ -21,8 +21,8 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      17 hrs 33 mins  ██████████████████░░░░░░░   72.59 %
-BibTeX   6 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+TeX      18 hrs 27 mins  ████████████████▒░░░░░░░░   65.80 %
+BibTeX   9 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.20 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
