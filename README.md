@@ -21,11 +21,11 @@ My name is Janina and I am a master's student of Computer Science at the Univers
 <!--START_SECTION:waka-->
 
 ```txt
-BibTeX       55 mins         █████████████████░░░░░░░░   68.27 %
-TeX          12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Python       10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+BibTeX       55 mins         ███████████▓░░░░░░░░░░░░░   47.30 %
+Python       42 mins         █████████░░░░░░░░░░░░░░░░   36.52 %
+TeX          12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Git Config   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
