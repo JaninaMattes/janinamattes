@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I’m Janina
 
-I’m a Master’s student in Computer Science at :contentReference[oaicite:0]{index=0}, with a strong interest in building intelligent and interactive systems.
+I’m a Master’s student in Computer Science at [Ludwig Maximilian University of Munich (LMU)](https://www.lmu.de/en/), with a strong interest in building intelligent and interactive systems.
 My main focus areas are **machine learning**, **full-stack development** (web & mobile), and **VR/game development**. I’m currently expanding my skill set in **high-performance computing** to better understand scalable and efficient systems.
 
 I’m passionate about robotics, science, and continuous learning—and I enjoy sharing what I learn along the way.  
