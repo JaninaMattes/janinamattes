@@ -5,10 +5,9 @@
 ### Hi there 👋 I’m Janina
 
 I’m a Master’s student in Computer Science at the [University of Munich](https://www.lmu.de/en/), with a strong interest in building intelligent and interactive systems.
-My main focus areas are **machine learning**, **full-stack development** (web & mobile), and **VR/game development**. I’m currently expanding my skill set in **high-performance computing** to better understand scalable and efficient systems.
+My focus areas are **machine learning**, **full-stack development** (web & mobile), and **VR/game development**. I’m currently expanding my skill set in **high-performance computing** to better understand scalable and efficient systems.
 
-I’m passionate about robotics, science, and continuous learning—and I enjoy sharing what I learn along the way.  
-You can find an overview of my work, experiments, and ongoing projects in my **[projects & portfolio](https://janinamattes.github.io/#profile)** (work in progress ⏳).
+I am passionate about robotics, science, learning and sharing my learning process with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress ⏳).
 
 
 ---
