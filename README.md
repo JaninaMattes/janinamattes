@@ -26,7 +26,8 @@ I am passionate about robotics, science, learning and sharing my learning proces
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   4 hrs 13 mins         █████████████████████████   99.77 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
