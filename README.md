@@ -21,7 +21,7 @@ I am passionate about robotics, science, learning and sharing my learning proces
 
 **Interpretability ML Research**
 
-🔬 Interpretability in Diffusion & Flow Matching Models 
+🔬 Interpretability in Diffusion & Flow Matching Models <br>
 My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. 
 Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/edit/main/README.md)
 
