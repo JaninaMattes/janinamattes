@@ -26,11 +26,11 @@ I am passionate about robotics, science, learning and sharing my learning proces
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 14 mins         ████████████████▓░░░░░░░░   66.01 %
-Markdown     1 hr 38 mins          ████████▒░░░░░░░░░░░░░░░░   33.34 %
-Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     8 hrs 10 mins         █████████████████░░░░░░░░   67.91 %
+Python       3 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
