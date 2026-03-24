@@ -10,6 +10,12 @@ My focus areas are **machine learning**, **full-stack development** (web & mobil
 I am passionate about robotics, science, learning and sharing my learning process with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress ⏳).
 
 
+**Featured ML Research**
+
+**🔬 Interpretability in Diffusion & Flow Matching Models**  
+My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. 
+Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/edit/main/README.md)
+
 ---
 
 **What do I do?**
