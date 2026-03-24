@@ -9,13 +9,6 @@ My focus areas are **machine learning**, **full-stack development** (web & mobil
 
 I am passionate about robotics, science, learning and sharing my learning process with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress ⏳).
 
-
-**Featured ML Research**
-
-**🔬 Interpretability in Diffusion & Flow Matching Models**  
-My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. 
-Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/edit/main/README.md)
-
 ---
 
 **What do I do?**
@@ -23,6 +16,15 @@ Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/Ja
 - 🔭 I’m currently (and constantly) working on my [personal website](https://janinamattes.github.io/#profile)
 - 🌱 I’m currently learning more about autonomous driving and EKF SLAM with [ROS 2](https://github.com/munichmotorsport) and how to solve drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone). I'm always trying to find better solutions to my project ideas.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/)
+
+---
+
+**Interpretability ML Research**
+
+🔬 Interpretability in Diffusion & Flow Matching Models 
+My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. 
+Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/edit/main/README.md)
+
 
 ---
 
