@@ -24,8 +24,7 @@ I’m a Computer Science MSc student at the [University of Munich](https://www.l
 **Research**
 
 🔬 Interpretability in Diffusion & Flow Matching Models <br>
-My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. <br>
-Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/)
+My most recent work [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/) focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems.
 
 
 ---
@@ -36,11 +35,11 @@ Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/Ja
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 hrs 10 mins         █████████████████░░░░░░░░   67.91 %
-Python       3 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown     8 hrs 10 mins         █████████████████▒░░░░░░░   69.49 %
+Python       3 hrs 12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
