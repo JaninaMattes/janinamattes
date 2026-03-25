@@ -4,26 +4,27 @@
 
 ### Hi there 👋 I’m Janina
 
-I’m a Master’s student in Computer Science at the [University of Munich](https://www.lmu.de/en/), with an interest in building intelligent and interactive systems.
-My focus areas are **machine learning**, **full-stack development** (web & mobile), and **VR/game development**. I’m currently learning more about **high-performance computing** to better understand scalable and efficient systems.
-
-I am passionate about robotics, science, learning and sharing my learning process with others. You can see a full list of what I am up to on my [projects & portfolio](https://janinamattes.github.io/#profile) (currently a work in progress ⏳).
+I’m a Computer Science MSc student at the [University of Munich](https://www.lmu.de/en/), working at the intersection of backend engineering, cloud infrastructure, and machine learning systems.
 
 ---
 
-**What do I do?**
+**What I’m currently working on**
 
-- 🔭 I’m currently (and constantly) working on my [personal website](https://janinamattes.github.io/#profile)
-- 🌱 I’m currently learning more about autonomous driving and EKF SLAM with [ROS 2](https://github.com/munichmotorsport) and how to solve drone flight with [Reinforcement Learning](https://github.com/JaninaMattes/Autonomous-Explorer-Drone). I'm always trying to find better solutions to my project ideas.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/janina-mattes/)
+- 🔭 Improving my [personal website](https://janinamattes.github.io/#profile)
+- LLM systems:
+  - Retrieval-Augmented Generation (RAG)
+  - LLM-based code review & pull request automation
+  - Evaluation and reliability of LLM outputs
+- Reinforcement Learning & Robotics:
+  - Autonomous drone control with model-free RL ([project](https://github.com/JaninaMattes/Autonomous-Explorer-Drone))
+  - Autonomous driving & EKF SLAM with [ROS 2](https://github.com/munichmotorsport)
 
 ---
 
-**Interpretability ML Research**
+**Research**
 
 🔬 Interpretability in Diffusion & Flow Matching Models <br>
-My most recent work focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems. 
-Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/edit/main/README.md)
+My most recent work [Noise Guided Smooth LFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM/) focuses on the internal representations of large Diffusion and Flow Matching models to enable more understandable and controllable generative systems.
 
 
 ---
