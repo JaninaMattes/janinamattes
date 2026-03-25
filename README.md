@@ -34,11 +34,11 @@ Open-sourced code & experiments: [Noise Guided Smooth LFM](https://github.com/Ja
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 hrs 10 mins         █████████████████░░░░░░░░   67.91 %
-Python       3 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown     8 hrs 10 mins         █████████████████▒░░░░░░░   69.49 %
+Python       3 hrs 12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
