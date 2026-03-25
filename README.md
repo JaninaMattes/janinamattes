@@ -16,7 +16,7 @@ I’m a Computer Science MSc student at the [University of Munich](https://www.l
   - LLM-based code review & pull request automation
   - Evaluation and reliability of LLM outputs
 - Reinforcement Learning & Robotics:
-  - Autonomous drone control with RL ([project](https://github.com/JaninaMattes/Autonomous-Explorer-Drone))
+  - Autonomous drone control with model-free RL ([project](https://github.com/JaninaMattes/Autonomous-Explorer-Drone))
   - Autonomous driving & EKF SLAM with [ROS 2](https://github.com/munichmotorsport)
 
 ---
