@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I’m Janina
 
-I’m a Computer Science MSc student at the [University of Munich](https://www.lmu.de/en/), working at the intersection of backend engineering, cloud infrastructure, and machine learning systems.
+I’m a Computer Science MS student at the [University of Munich](https://www.lmu.de/en/), specialising in backend engineering, cloud infrastructure, and machine learning systems. I'm also interested in understanding the weaknesses, behaviours, and inner-workings of AIs; and how we can make these systems more trustworthy and explainable. 
 
 ---
 
