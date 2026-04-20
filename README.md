@@ -35,7 +35,8 @@ My most recent work [Noise Guided Smooth LFM](https://github.com/JaninaMattes/No
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 24 mins          █████████████████████████   99.42 %
+JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
