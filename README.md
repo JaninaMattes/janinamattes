@@ -35,11 +35,11 @@ My most recent work [Noise Guided Smooth LFM](https://github.com/JaninaMattes/No
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 14 mins         ████████████████████▒░░░░   81.45 %
-TOML         24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-YAML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-JSON         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Python       4 hrs 26 mins         ████████████████████▓░░░░   82.13 %
+TOML         24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+YAML         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+JSON         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
