@@ -12,8 +12,9 @@ I’m a Computer Science MS student at the [University of Munich](https://www.lm
 
 - 🔭 Improving my [personal website](https://janinamattes.github.io/#profile)
 - LLM systems:
-  - Retrieval-Augmented Generation (RAG)
-  - LLM-based code review & pull request automation
+  - Retrieval-Augmented Generation (RAG) and GraphRAG architectures ([project]([https://github.com/JaninaMattes/Autonomous-Explorer-Drone](https://github.com/JaninaMattes/Agentic-GraphRAG)))
+  - Agentic AI systems and LLM-powered workflows using LangGraph
+  - Evaluation, observability, and reliability of LLM outputs
   - Evaluation and reliability of LLM outputs
 - Reinforcement Learning & Robotics:
   - Autonomous drone control with model-free RL ([project](https://github.com/JaninaMattes/Autonomous-Explorer-Drone))
