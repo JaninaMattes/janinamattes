@@ -16,7 +16,7 @@
 ### Hi, I'm Janina 👋
 
 I'm a software engineer in Sydney working on AI systems, following my curiosity from LLM
-retrieval and agents to computer vision and generative models. I care most about **trustworthy AI**: understanding how
+retrieval and agents to computer vision and generative models. I'm interested in **trustworthy AI**: understanding how
 models represent what they learn, and making their behaviour reliable, testable and explainable.
 
 ---
