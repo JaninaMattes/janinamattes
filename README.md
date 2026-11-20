@@ -34,7 +34,7 @@ models represent what they learn, and making their behaviour reliable, testable 
 **Research**
 
 [NoiseGuided-SmoothLFM](https://github.com/JaninaMattes/NoiseGuided-SmoothLFM), my MSc thesis
-at LMU Munich, looks inside flow matching image models: it learns interpretable codes in the
+at LMU Munich, looks inside flow matching image models and learns interpretable codes in the
 model's latent space and uses them to guide and control what the model generates.
 
 ---
